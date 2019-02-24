@@ -4,7 +4,7 @@ from scrapy.spiders import SitemapSpider
 class MySpider(SitemapSpider):
     name = "sitemapSpider"
     sitemap_urls = [
-        "https://www.delish.com/robots.txt",
+        "https://home.meishichina.com/robots.txt",
     ]
 
     def parse(self, response):
