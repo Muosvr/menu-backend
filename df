@@ -1,0 +1,87 @@
+[33mcommit 8d0e5c568ff10eca9bd7b527a2dbdf88d800cb6f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Muosvr <lujason2015@gmail.com>
+Date:   Sun Feb 24 17:35:39 2019 -0500
+
+    delish.com
+
+[33mcommit b0b0f652fa2d30becae2c6e219121e5fe6d00154[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Muosvr <lujason2015@gmail.com>
+Date:   Sat Feb 23 21:01:45 2019 -0500
+
+    update
+
+[33mcommit 73e04502e070ced0ee2d6e219a3aaa76c3bbcc76[m
+Author: Muosvr <lujason2015@gmail.com>
+Date:   Fri Feb 22 22:52:27 2019 -0500
+
+    sitemap scraping
+
+[33mcommit a53ea20068a0bc698ba8be5cfb9f30d54e414bf0[m
+Author: Muosvr <lujason2015@gmail.com>
+Date:   Sat Feb 16 13:10:44 2019 -0500
+
+    update
+
+[33mcommit ff1b4de163950d4279cde334df9e4f28deee43f9[m
+Author: Muosvr <lujason2015@gmail.com>
+Date:   Thu Feb 14 18:18:48 2019 -0500
+
+    English
+
+[33mcommit 3b5d563944174c37a7c9df2817ff598b9b0c16c3[m
+Author: Muosvr <lujason2015@gmail.com>
+Date:   Mon Feb 11 21:49:10 2019 -0500
+
+    batch retrive menu text
+
+[33mcommit 8f68147b9447ee16a986825d37b061f0abdc3e1d[m
+Author: Muosvr <lujason2015@gmail.com>
+Date:   Sat Feb 9 13:09:27 2019 -0500
+
+    check repeat
+
+[33mcommit 4351680663886a51a3f9710ed98d7abce732b151[m
+Author: Muosvr <lujason2015@gmail.com>
+Date:   Thu Feb 7 20:59:11 2019 -0500
+
+    gitignore
+
+[33mcommit 9c4e1c4413492b30bbad8b387551b79aa82e96d9[m
+Author: Jason Wu <lujason2015@gmail.com>
+Date:   Thu Feb 7 20:54:52 2019 -0500
+
+    Delete dev_key.txt
+
+[33mcommit 2a43307bb26500f4e63b9a54f441b233a3b0e3d0[m
+Author: Muosvr <lujason2015@gmail.com>
+Date:   Thu Feb 7 20:53:53 2019 -0500
+
+    delete menu images
+
+[33mcommit 98be8df58106c776da1615bc48820d9b32800213[m
+Author: Muosvr <lujason2015@gmail.com>
+Date:   Thu Feb 7 20:48:20 2019 -0500
+
+    Revert "Revert "google vision ocr""
+    
+    This reverts commit 1e450a2da7761d728e5c36ee30bb7e4021ebcb13.
+
+[33mcommit 1e450a2da7761d728e5c36ee30bb7e4021ebcb13[m
+Author: Muosvr <lujason2015@gmail.com>
+Date:   Thu Feb 7 20:45:45 2019 -0500
+
+    Revert "google vision ocr"
+    
+    This reverts commit d6f0128fe2fdb5181a4ff4b2191a861ed589292b.
+
+[33mcommit d6f0128fe2fdb5181a4ff4b2191a861ed589292b[m
+Author: Muosvr <lujason2015@gmail.com>
+Date:   Thu Feb 7 20:43:48 2019 -0500
+
+    google vision ocr
+
+[33mcommit ad3b1195e0e4ab10154ccd42723da441b52aebd3[m
+Author: Muosvr <lujason2015@gmail.com>
+Date:   Wed Feb 6 23:25:07 2019 -0500
+
+    menu images
