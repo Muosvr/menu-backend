@@ -4,7 +4,8 @@ from scrapy.spiders import SitemapSpider
 class MySpider(SitemapSpider):
     name = "sitemapSpider"
     sitemap_urls = [
-        "https://www.myrecipes.com/sitemap-index.xml"]
+        "https://home.meishichina.com/robots.txt",
+    ]
 
     def parse(self, response):
         # with open("image_data.txt", "a+") as f:
